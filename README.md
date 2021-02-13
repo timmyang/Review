@@ -6,4 +6,7 @@
 
 ## 2_Programming_Review
 
-## #_Behavioral_Questions
+- 1_SQL
+- 2_Python
+
+## 3_Behavioral_Questions
