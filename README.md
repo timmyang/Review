@@ -1,12 +1,12 @@
 # Interview_Prep
 
-## 1_Statistics_Review
+## 1. Statistics Review
 
-- 1_Rregression
+- Rregression
 
-## 2_Programming_Review
+## 2. Programming_Review
 
-- 1_SQL
-- 2_Python
+- SQL
+- Python
 
-## 3_Behavioral_Questions
+## 3. Behavioral_Questions
