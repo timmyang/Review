@@ -2,7 +2,7 @@
 
 ## 1. Statistics Review
 
-- Rregression
+- Regression
 
 ## 2. Programming_Review
 
