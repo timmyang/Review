@@ -1,3 +1,4 @@
 ## 1. Statistics_Review
 
-- Regression
+- 0. Probabilty and Statistics
+- 1. Regression
